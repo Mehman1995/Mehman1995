@@ -31,11 +31,3 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100" height="100"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" width="100" height="100"/>&nbsp; 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" width = "100" height = "100"/>&nbsp;
-  
-  ---
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
-
-  
