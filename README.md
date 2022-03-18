@@ -15,3 +15,11 @@
   <div id= "badges">
 <img src= "https://komarev.com/ghpvc/?username=Mehman1995-github-username&style=flat-square&color=blueviolet" alt=""/>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a student of neology and in the future I want to become an android developer from Kazan.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</div>
+ 
