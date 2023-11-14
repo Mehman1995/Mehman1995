@@ -25,3 +25,6 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>&nbsp;
  </div>
 
+---
+
+#### One of my favorite books - [Spring in Action, Sixth Edition](https://github.com/Mehman1995/taco-cloud#spring-in-action-sixth-edition)
