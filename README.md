@@ -1,5 +1,5 @@
 ## Здарова ( • ᴗ - ) ✧
-Меня зовут Мехман Гулиев я **Java developer** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+Меня зовут Мехман Гулиев я **QA Engineer**
 
   <div align= "center">
 <img src= "https://komarev.com/ghpvc/?username=Mehman1995-github-username&style=flat-square&color=blueviolet"width="150"height="30"/>
