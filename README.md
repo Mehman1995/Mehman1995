@@ -34,7 +34,7 @@
 
    ## My Certifications Java
  - [Java basics](https://github.com/Mehman1995/My-Certifications/blob/main/java%20basics.jpg).
- - [Git](https://github.com/Mehman1995/My-Certifications/blob/main/Git.jpg)
+ - [Git — система контроля версий(2021)](https://github.com/Mehman1995/My-Certifications/blob/main/Git.jpg)
  - [Java Core](https://github.com/Mehman1995/My-Certifications/blob/main/JavaCore.jpg)
  - [Design patterns](https://github.com/Mehman1995/My-Certifications/blob/main/templates.jpg)
  - [Java multireading](https://github.com/Mehman1995/My-Certifications/blob/main/multireading.jpg)
@@ -42,3 +42,4 @@
 
   ## My Certifications QA Engineer
 - [Ручное тестирование веб-приложений](https://github.com/Mehman1995/My-Certifications/blob/main/QA.png)
+- [Git — система контроля версий(2024)](https://github.com/Mehman1995/My-Certifications/blob/main/Git%20—%20система%20контроля%20версий.png)
