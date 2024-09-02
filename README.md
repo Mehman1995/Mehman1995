@@ -43,3 +43,4 @@
   ## My Certifications QA Engineer
 - [Ручное тестирование веб-приложений](https://github.com/Mehman1995/My-Certifications/blob/main/QA.png)
 - [Git — система контроля версий(2024)](https://github.com/Mehman1995/My-Certifications/blob/main/Git%20—%20система%20контроля%20версий.png)
+- [Stepik QA](https://github.com/Mehman1995/My-Certifications/blob/main/Stepik%20Testing.png)
