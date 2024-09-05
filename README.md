@@ -2,7 +2,7 @@
 Меня зовут Мехман Гулиев я **QA Engineer**
 
   <div align= "center">
-<img src= "https://komarev.com/ghpvc/?username=Mehman1995-github-username&style=flat-square&color=blueviolet"width="150"height="30"/>
+<img src= "https://komarev.com/ghpvc/?username=Mehman1995-github-username&abbreviated=true&style=flat-square&color=blueviolet"width="150"height="30"/>
     
 </div>
 
