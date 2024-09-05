@@ -1,10 +1,11 @@
 ## Здарова ( • ᴗ - ) ✧
 Меня зовут Мехман Гулиев я **QA Engineer**
 
-  <div align= "center">
-<img src= "https://komarev.com/ghpvc/?username=Mehman1995-github-username&abbreviated=true&style=flat-square&color=blueviolet"width="150"height="30"/>
-    
-</div>
+  ![](https://komarev.com/ghpvc/?username=Mehman1995&abbreviated=true&style=flat-square&color=blueviolet)
+  
+   
+
+
 
 <div align="center">
   <img src="https://media3.giphy.com/media/uDqtCeVx1QEDwNAEOM/giphy.gif?" width="600"height="500"/>
@@ -44,3 +45,5 @@
 - [Ручное тестирование веб-приложений](https://github.com/Mehman1995/My-Certifications/blob/main/QA.png)
 - [Git — система контроля версий(2024)](https://github.com/Mehman1995/My-Certifications/blob/main/Git%20—%20система%20контроля%20версий.png)
 - [Stepik QA](https://github.com/Mehman1995/My-Certifications/blob/main/Stepik%20Testing.png)
+
+![](https://hit.yhype.me/github/profile?user_id=87534806)
